@@ -111,7 +111,7 @@ for num in range(many):
     yes = open('combo by king.txt', 'a')
     with yes as x:
         x.write(city+num+'@gmail.com:'+gh+'\n')
-	print("تم حفظ الملف باسم combo by king.txt")
+print("تم حفظ الملف بائسم combo by king.txt")
 
 
 
