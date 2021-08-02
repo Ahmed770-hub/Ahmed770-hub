@@ -8,7 +8,7 @@ print("choose...")
 print(gre+"[1] Times ")
 print("[2] Subtract ")
 print("[3] Add")
-print("[4] ahmed")
+print("[4] Divided")
 
 g=input("choose : ")
 c=input(yel+"your num 1:")
