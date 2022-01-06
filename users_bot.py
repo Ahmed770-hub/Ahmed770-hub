@@ -9,7 +9,7 @@ os.system("pip install user_agent")
 os.system("pip install requests")
 
 print("work now")
-token = input("Enter your token")
+token = input("Enter your token : ")
 
 bot = telebot.TeleBot(token)
 
